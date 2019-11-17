@@ -3,7 +3,8 @@ import pysmartthings
 import asyncio
 import tkinter as tk
 
-token = "PUT TOKEN HERE"
+
+token = "68bfc612-2632-4030-a070-4da0244c4bcd"
 
 
 async def get_lights():
