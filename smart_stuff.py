@@ -4,7 +4,7 @@ import asyncio
 import tkinter as tk
 
 
-token = "68bfc612-2632-4030-a070-4da0244c4bcd"
+token = "THANK-YOU"
 
 
 async def get_lights():
